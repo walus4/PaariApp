@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pari.Api", "Pari.Api\Pari.Api.csproj", "{2A60DA54-060A-48B9-8D93-26C8549A856F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pari.Api.Tests", "Pari.Api.Tests\Pari.Api.Tests.csproj", "{F79F41EF-1340-4208-A2E2-BA52B0C7F57F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A60DA54-060A-48B9-8D93-26C8549A856F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A60DA54-060A-48B9-8D93-26C8549A856F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A60DA54-060A-48B9-8D93-26C8549A856F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A60DA54-060A-48B9-8D93-26C8549A856F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F79F41EF-1340-4208-A2E2-BA52B0C7F57F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F79F41EF-1340-4208-A2E2-BA52B0C7F57F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F79F41EF-1340-4208-A2E2-BA52B0C7F57F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F79F41EF-1340-4208-A2E2-BA52B0C7F57F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F27364DB-5855-494D-918E-370B6A3C8ED2}
+	EndGlobalSection
+EndGlobal
