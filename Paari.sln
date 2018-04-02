@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paari.Data", "Paari.Data\Pa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{AF4F0418-B1B5-4597-91EE-701BCC39DAEB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paari.Data.Tests", "Paari.Data.Tests\Paari.Data.Tests.csproj", "{BDFA4349-8FF7-4D1C-B806-B07E3A482418}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{AF4F0418-B1B5-4597-91EE-701BCC39DAEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF4F0418-B1B5-4597-91EE-701BCC39DAEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF4F0418-B1B5-4597-91EE-701BCC39DAEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDFA4349-8FF7-4D1C-B806-B07E3A482418}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDFA4349-8FF7-4D1C-B806-B07E3A482418}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDFA4349-8FF7-4D1C-B806-B07E3A482418}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDFA4349-8FF7-4D1C-B806-B07E3A482418}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
